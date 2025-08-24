@@ -1,0 +1,11 @@
+{
+  "name": "countries-slim",
+  "version": "1.0.0",
+  "description": "slim and simplified countries, cities and states",
+  "main": "main.mjs",
+  "scripts": {
+    "build": "node main.mjs"
+  },
+  "author": "Joseph Ojoko <entewshi@gmail.com>",
+  "license": "MIT"
+}
